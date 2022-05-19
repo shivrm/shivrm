@@ -2,7 +2,7 @@
 - :seedling: I am an amateur programmer who makes tiny projects.
 - :man_technologist: I use [Python](https://github.com/search?q=user%3Ashivrm+python&type=repositories) and [JavaScript](https://github.com/search?q=user%3Ashivrm+javascript&type=repositories), and sometimes [Rust](https://github.com/search?q=user%3Ashivrm+rust&type=repositories).
 - :heart: I like open-source software, and accessible bloat-free websites.
-- :earth_asia: I have a website: https://shivram.ml
+- :earth_asia: I have a website: https://shivrm.github.io
 
 ## Socials:
 - [GitHub](https://github.com/shivrm) (You are already here)
